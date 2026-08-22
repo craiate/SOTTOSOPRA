@@ -501,13 +501,6 @@
       align-items: start;
     }
 
-    @media (max-width: 1200px) {
-      .layout-wrapper {
-        grid-template-columns: 1fr;
-        padding-top: 2rem;
-      }
-    }
-
     /* STICKY SIDEBAR / TABLE OF CONTENTS & COMMENTS */
     .sidebar,
     .sidebar-right {
@@ -522,10 +515,34 @@
       overflow-y: auto;
     }
 
+    /* RESPONSIVE MOBILE / TABLET (Sotto i 1200px) */
     @media (max-width: 1200px) {
-      .sidebar,
-      .sidebar-right {
-        display: none;
+      .layout-wrapper {
+        grid-template-columns: 1fr;
+        padding: 2rem 1rem;
+      }
+
+      /* L'indice (sidebar sinistra) sale in cima, sbloccato dallo sticky */
+      .sidebar {
+        display: block;
+        position: static !important;
+        max-height: none;
+        width: 100%;
+        margin-bottom: 2rem;
+      }
+
+      /* Il testo centrale si adatta a tutta pagina */
+      .content-article {
+        width: 100%;
+      }
+
+      /* I commenti (sidebar destra) scendono ordinatamente in fondo */
+      .sidebar-right { 
+        display: block; 
+        position: static !important;
+        max-height: none;
+        width: 100%;
+        margin-top: 3rem;
       }
     }
 
