@@ -19,7 +19,7 @@
 
 ## Prologo — Uno strumento nato "al contrario": il problema nella bocca
 
-Il clarinetto nasce sul finire del XVII secolo a Norimberga dall'opera di Johann Christoph Denner, che perfeziona il *chalumeau*, uno strumento popolare a canna cilindrica con poche chiavi e una singola lamella di canna legata al becco. Nei suoi primi decenni di vita, il clarinetto è uno strumento leggero, cameristico, dotato di sole due o tre chiavi.
+Il clarinetto nasce sul finire del XVII secolo a Norimberga dall'opera di Johann Christoph Denner, che perfeziona lo *chalumeau*, uno strumento popolare a canna cilindrica con poche chiavi e una singola lamella di canna legata al becco. Nei suoi primi decenni di vita, il clarinetto è uno strumento leggero, cameristico, dotato di sole due o tre chiavi.
 
 Per tutto il Settecento e fino ai primi dell'Ottocento, la stragrande maggioranza dei clarinettisti in Europa suona con l'**ancia rivolta verso l'alto (*Obersichblasen*)**, a diretto contatto con il labbro superiore. Sia l'ancia che il bocchino erano avvolti e sigillati dalle due labbra morbide, secondo la logica del **doppio labbro storico**.
 
@@ -96,7 +96,7 @@ Tra il 1839 e il 1843, **Hyacinthe Klosé** (professore al Conservatoire de Pari
 
 ## Capitolo 4 – La ricezione in Francia: Lefèvre, il rifiuto istituzionale e la transizione (1812–1829)
 
-Nel 1812 Iwan Müller presenta la sua clarinetta a 13 chiavi al Conservatoire de Paris. La commissione accademica — guidata da figure come **Jean-Xavier Lefèvre**, autore del metodo ufficiale del 1802 che prescriveva l'ancia sopra — boccia lo strumento.
+Nel 1812 Iwan Müller presenta il suo clarinetto a 13 chiavi al Conservatoire de Paris. La commissione accademica — guidata da figure come **Jean-Xavier Lefèvre**, autore del metodo ufficiale del 1802 che prescriveva l'ancia sopra — boccia lo strumento.
 
 La motivazione ufficiale della commissione verteva sul timore che uno strumento onnitonico perdesse il colore e il carattere timbrico proprio delle diverse taglie di clarinetto (in Do, Si♭, La). Ma la conseguenza indiretta fu una **mancata adozione istituzionale del modello Müller in Francia**.
 
@@ -230,7 +230,7 @@ Per un lavoro scientificamente ineccepibile, è fondamentale separare i fatti pr
 
 | Periodo / Scuola | Posizione Ancia | Assetto Labbro Superiore | Assetto Labbro Inferiore | Punto di Sostegno Strumento | Obiettivo Primario | Figure di Riferimento |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Prassi Settecentesca (Antica)** | **Ancia Sopra** (*Obersichblasen*) | Labbro sup. ripiegato sull'ancia (Doppio labbro storico) | Labbro inf. ripiegato sul corpo rigido del becco | Mano dx (pollice) + labbra morbide | Eredità diretta del *chalumeau*, dolcezza cameristica | V. Roeser, J.-X. Lefèvre, A. van der Hagen, M. Blasius |
+| **Prassi Settecentesca (Antica)** | **Ancia Sopra** (*Obersichblasen*) | Labbro sup. ripiegato sull'ancia (Doppio labbro storico) | Labbro inf. ripiegato sul corpo rigido del becco | Mano dx (pollice) + labbra morbide | Eredità diretta dello *chalumeau*, dolcezza cameristica | V. Roeser, J.-X. Lefèvre, A. van der Hagen, M. Blasius |
 | **Transizione Inizio '800** | Coesistenza Sopra / Sotto | Libera scelta dell'esecutore | Libera scelta dell'esecutore | Pollice dx + labbra | Transizione empirica senza dogmi scolastici | J. G. H. Backofen (1803), G. Fröhlich (1811) |
 | **Rivoluzione Müller (1812–1826)** | **Ancia Sotto** (*Untersichblasen*) | **Denti superiori sul becco** (Presa dentale) | Labbro inf. sull'ancia vibrante | **Bocca / Denti sup.** (libera il pollice dx per le chiavi) | Ergonomia della meccanica a 13 chiavi, cromatismo completo | Iwan Müller, J. G. H. Backofen (1824) |
 | **Scuola Francese (1836–1932)** | **Ancia Sotto** (*Untersichblasen*) | **Labbro sup. ripiegato** (No denti sul becco!) | Labbro inf. sull'ancia vibrante | Labbra + pollice dx (poi sistema Boehm) | Timbro puro, flessibilità, morbidezza vocale anti-morso | F. Berr, H. Klosé, C. Rose, P. Mimart, E. Gay (1932) |
