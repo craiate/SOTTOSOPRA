@@ -62,7 +62,7 @@ La scelta era ancora aperta: la vecchia tradizione non era scomparsa e la nuova 
 
 La figura centrale della rivoluzione è **Iwan Müller** (1786–1854), virtuoso cosmopolita, costruttore e teorico.
 
-Nel 1812 Müller brevetta a Parigi la sua [*clarinette omnitonique* a 13 chiavi](https://www.researchcatalogue.net/view/2890707/2890706) con cuscinetti ermetici in pelle e feltro all'interno di svasature coniche. La vera novità organologica non è solo il numero delle chiavi, ma la loro collocazione ergonomica: alcune leve fondamentali vengono posizionate per essere **azionate direttamente dal pollice della mano destra**.
+Nel 1812 Müller brevetta a Parigi il suo [*clarinette omnitonique* a 13 chiavi](https://www.researchcatalogue.net/view/2890707/2890706) con cuscinetti ermetici in pelle e feltro all'interno di svasature coniche. La vera novità organologica non è solo il numero delle chiavi, ma la loro collocazione ergonomica: alcune leve fondamentali vengono posizionate per essere **azionate direttamente dal pollice della mano destra**.
 
 ### Il dilemma del sostegno
 Nel clarinetto antico a 5 o 6 chiavi, il pollice destro fungeva da pilastro fisso e quasi esclusivo di sostegno dello strumento contro la spinta della mano sinistra. Con la nuova meccanica a 13 chiavi di Müller, il pollice destro non può più rimanere bloccato: deve essere agile, libero di muoversi e di premere i tasti.
